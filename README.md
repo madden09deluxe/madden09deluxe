@@ -1,11 +1,26 @@
-# Madden 09 Deluxe - Ultimate Madden 09 Mod
 
+<img width="2048" height="1024" alt="Main Menu for Mod" src="https://github.com/user-attachments/assets/7830508c-eb03-42ab-b62d-ab6479495341" />
+
+
+
+Features:
+- Updated roster to 2025 season
+- Expanded uniform slots with updated alternate uniform sets
+- Modified field system
+- New stadiums
+- Upscaled textures
+
+
+Work In Progress:
+- Stadium wallart
+- Schedules
+- Loading screen and menu graphics
 
 Credits:
 
 joshuablackstone - Rosters, Original Madden 12 Mod
 
-WillyBilly - Player Rating Input for Rosters
+WillyBilly - Player Rating Input for Rosters + ISO patching tool
 
 CryptoIntern - Franchise, Superstar, Gear
 
