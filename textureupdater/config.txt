@@ -1,7 +1,7 @@
-local_directory: G:\test\textures
-github_token: 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
-last_run_date: 2005-07-11 00:00:00.000000
-initial_setup_done: True
+local_directory: G:\m09 testing
+github_token: 
+last_run_date: 2005-07-11 00:00:00.000
+initial_setup_done: False
 debug_mode: False
 ###^^^^^ ABOVE IS AUTO-GENERATED. DO NOT EDIT ^^^^^###  
 project_name: Madden 09 Deluxe
