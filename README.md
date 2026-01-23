@@ -16,6 +16,14 @@ Work In Progress:
 - Schedules
 - Loading screen and menu graphics
 
+Downloads
+
+| Files  | Link |
+| ------------- | ------------- |
+| Latest Release |   |
+| Delta Patcher  | [Link](https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.6)  |
+| mymc | [Link](http://www.csclub.uwaterloo.ca:11068/mymc/) |
+| Texture Download Tool | |
 FAQ
 
 Q: Why Madden 09 over Madden 08 or 11?
