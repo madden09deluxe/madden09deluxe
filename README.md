@@ -20,10 +20,10 @@ Downloads
 
 | Files  | Link |
 | ------------- | ------------- |
-| Latest Release |   |
+| Latest Release | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/tag/v0.1-beta)  |
 | Delta Patcher  | [Link](https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.6)  |
 | mymc | [Link](http://www.csclub.uwaterloo.ca:11068/mymc/) |
-| Texture Download Tool | |
+| Texture Download Tool | [Link](https://github.com/maddendeluxe/madden09-textures-downloader-v2/releases/tag/release) |
 | Compatible Emulators | [Link](https://github.com/ncaanext/emulator-archive) |
 
 JSGME Mods
