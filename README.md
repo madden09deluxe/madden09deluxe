@@ -26,6 +26,12 @@ Downloads
 | Texture Download Tool | [Link](https://github.com/maddendeluxe/madden09-textures-downloader-v2/releases/tag/release) |
 | Compatible Emulators | [Link](https://github.com/ncaanext/emulator-archive) |
 
+| Roster Files | Link |
+| ------------- | ------------- |
+| Latest Rosters | |
+| Draft Classes | [Link](https://www.mediafire.com/file/ij7frr01x9q4r1q/M09_Deluxe_Draft_Classes.zip/file)|
+
+
 JSGME Mods
 | Files  | Link |
 | ------------- | ------------- |
