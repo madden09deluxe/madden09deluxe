@@ -28,7 +28,8 @@ Downloads
 
 | Roster Files | Link |
 | ------------- | ------------- |
-| Latest Rosters | |
+| Latest Rosters .max File | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.1-beta/SLUS-21770.Madden.NFL.Rost.2526NFL.C6234E8B.max) |
+| Latest Rosters Memcard | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.1-beta/Madden09Deluxe.ps2) |
 | Draft Classes | [Link](https://www.mediafire.com/file/ij7frr01x9q4r1q/M09_Deluxe_Draft_Classes.zip/file)|
 
 
@@ -41,9 +42,6 @@ JSGME Mods
 
 
 FAQ
-
-Q: Why Madden 09 over Madden 08 or 11?
-A: I'm using a modified version of joshuablackstone's Madden 12 modded roster. It doesn't translate correctly to 08 and has had issues with franchise in the past. Madden 09 is completely compatible with the roster and causes no issues in franchise. Madden 09 has additional features that was cut from M11 (Historical Teams, Madden Cards) and also has some old features some people prefer (Commentary by Michaels and Madden, a more minimalistic scorebug, no camera shaking). Additionally, it's the first Madden PS2 to have SuperSim!
 
 Q: What platforms does this work on?
 A: This mod will specifically work on 1.7.2049 or lower builds of PCSX2 (the ones that support texture replacement). This mod cannot be played on original hardware (Stock PS2), due to the uniform, field and stadium edits that require texture replacements. This can also be played on Xbox Dev Mode or Steam Deck with additional instructions! 
