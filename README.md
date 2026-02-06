@@ -60,6 +60,8 @@ CryptoIntern - Franchise, Superstar, Gear
 
 johndest - Uniforms and Gear
 
+Seanie Mac - Loading Screens
+
 antdroid - Creator of tools used to create this mod (NCAA XDBE)
 
 JDHalfrack - Creator of tools used to create this mod (DFR5, Madden Uniform Editor and Ripper), Assistance on HEX Editing
