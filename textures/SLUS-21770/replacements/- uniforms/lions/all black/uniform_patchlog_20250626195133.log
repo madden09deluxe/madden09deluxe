@@ -1,9 +1,0 @@
-Patch Log
-========================================
-
-Patched: 362 - 70s modern throwbacks - new.3ds
-  Offset 00000310: 3E 73 D5 FA → A4 3A E6 38
-  Offset 00005810: 21 F1 21 F1 → A4 3A E6 38
-  Offset 0000AD10: 26 CD 1E 1E → 6A 2E 3C D6
-  Offset 0004B8D0: 0F 7A 7A 09 → AC 33 CE 44
-
