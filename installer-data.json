@@ -2,29 +2,5 @@
   "min_download_app_version": "2.0.0",
   "total_size": 1,
   "downloader_app_url": "https://github.com/maddendeluxe/madden09deluxe"
-  "comments": [
-    "===== NOTE: =======",
-    "The variables below are legacy variable for the old downloader app.", 
-    ],  
-  "version": "Madden 09 v0.1",
-  "release_date": "2026-2-9",
-  "release_url": "https://github.com/maddendeluxe/madden09deluxe",
-  "temp_size": 2,
-  "min_downloader_app_version": 0.25,
-  "download_complete": [
-    "textures/SLUS-21770/replacements/- stadium mods",
-    "textures/SLUS-21770/replacements/1 - Fields Replacements",
-    "textures/SLUS-21770/replacements/-1 team logos",
-    "textures/SLUS-21770/replacements/general",
-    "textures/SLUS-21770/replacements/- 1 2 user-customs"
-    "textures/SLUS-21770/replacements/- in-game banners"
-    "textures/SLUS-21770/replacements/- pro bowl"
-    "textures/SLUS-21770/replacements/teams"	
-    "textures/SLUS-21770/replacements/throwback fields"
-  ],
-  "download_subdirectories": [
-    "textures/SLUS-21770/replacements/- uniforms",
-    "textures/SLUS-21770/replacements/menu and loading"
-  ]
 }
 
