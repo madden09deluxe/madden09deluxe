@@ -1,6 +1,0 @@
-gametitle=Madden 09 Football SLUS-21770
-comment=no interlace by someother1ne
-patch=1,EE,2084D418,word,24020002  //auto widescreen
-patch=1,EE,2083b024,word,64420000
-patch=1,EE,2083b0ac,word,64420000
-
