@@ -16,6 +16,8 @@ Work In Progress:
 - Schedules
 - Loading screen and menu graphics
 
+Installation Guide can be found on the [wiki](https://github.com/maddendeluxe/madden09deluxe/wiki)!
+
 Downloads
 
 | Files  | Link |
