@@ -36,10 +36,13 @@ Downloads
 
 | Widescreen Fix | Link |
 | ------------- | ------------- |
-| Pnach | |
+| Pnach |[Link](https://www.mediafire.com/file/ecm3mevpnn6igkk/Madden_09_Widescreen_Fix_PNACH.zip/file)|
 
 
 JSGME Mods
+
+NOTE: Brand new installations of this mod will have all the existing JSGME mods included. If you already have ran the installation tool once, download any JSGME you want from here.
+
 | Files  | Link |
 | ------------- | ------------- |
 | Super Bowl LX Package | [Link](https://www.mediafire.com/file/4j9na2dv0dwjj37/Super_Bowl_LX_-_SEA_vs_NE_-_M09.zip/file)  |
