@@ -18,6 +18,8 @@ Work In Progress:
 
 Installation Guide can be found on the [wiki](https://github.com/maddendeluxe/madden09deluxe/wiki)!
 
+[Join the Discord Community for Discussion and Support for the mod!](https://discord.gg/5pfY2f4CW4)
+
 Downloads
 
 | Files  | Link |
