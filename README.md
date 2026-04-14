@@ -32,8 +32,8 @@ Downloads
 
 | Roster Files | Link |
 | ------------- | ------------- |
-| Latest Rosters .max File | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.1-beta/SLUS-21770.Madden.NFL.Rost.2526NFL.C6234E8B.max) |
-| Latest Rosters Memcard | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.1-beta/Madden09Deluxe.ps2) |
+| Latest Rosters .max File | [Link](https://www.mediafire.com/file/sw2y9fllj2o0z46/SLUS-21770_Madden_NFL_Rost_Rost1-p26_%252899F470A8%2529.max/file) |
+| Latest Rosters Memcard | [Link](https://www.mediafire.com/file/oe122s7eq3jplbv/M09DeluxePreDraft26.ps2/file) |
 | Draft Classes | [Link](https://www.mediafire.com/file/ij7frr01x9q4r1q/M09_Deluxe_Draft_Classes.zip/file)|
 
 | Widescreen Fix | Link |
