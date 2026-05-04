@@ -37,7 +37,7 @@ Downloads
 
 | Widescreen Fix | Link |
 | ------------- | ------------- |
-| Pnach |[Link](https://www.mediafire.com/file/ecm3mevpnn6igkk/Madden_09_Widescreen_Fix_PNACH.zip/file)|
+| Pnach |[Link](https://www.mediafire.com/file/mxyviksvv4nmb9z/Madden_09_Widescreen_PNACH.zip/file)|
 
 
 JSGME Mods
