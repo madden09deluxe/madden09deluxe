@@ -23,7 +23,7 @@ Downloads
 
 | Files  | Link |
 | ------------- | ------------- |
-| Latest Release | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/tag/v0.1-beta)  |
+| Latest Release | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/tag/v0.2-beta)  |
 | Delta Patcher  | [Link](https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.6)  |
 | mymc | [Link](http://www.csclub.uwaterloo.ca:11068/mymc/) |
 | Texture Download Tool | [Link](https://github.com/maddendeluxe/madden09-textures-downloader-v2/releases/tag/release) |
@@ -31,8 +31,8 @@ Downloads
 
 | Roster Files | Link |
 | ------------- | ------------- |
-| Latest Rosters .max File | [Link](https://www.mediafire.com/file/sw2y9fllj2o0z46/SLUS-21770_Madden_NFL_Rost_Rost1-p26_%252899F470A8%2529.max/file) |
-| Latest Rosters Memcard | [Link](https://www.mediafire.com/file/oe122s7eq3jplbv/M09DeluxePreDraft26.ps2/file) |
+| Latest Rosters .max File | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.2-beta/SLUS-21770.Madden.NFL.Rost.Rost1.D887FA61.psu) |
+| Latest Rosters Memcard | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.2-beta/M09Deluxe.ps2) |
 | Draft Classes | [Link](https://www.mediafire.com/file/ij7frr01x9q4r1q/M09_Deluxe_Draft_Classes.zip/file)|
 
 | Widescreen Fix | Link |
@@ -46,7 +46,9 @@ NOTE: Brand new installations of this mod will have all the existing JSGME mods 
 
 | Files  | Link |
 | ------------- | ------------- |
-| Super Bowl LX Package | [Link](https://www.mediafire.com/file/4j9na2dv0dwjj37/Super_Bowl_LX_-_SEA_vs_NE_-_M09.zip/file)  |
+| Madden Deluxe JSGMEs | [Link](https://www.mediafire.com/folder/2xfpcob0flq7a/Madden_Deluxe_JSGME)  |
+| Madden 09 Exclusive JSGMEs | [Link](https://www.mediafire.com/folder/sxvcf47c70o5t/09_Exclusive) |
+
 
 
 
