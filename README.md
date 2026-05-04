@@ -4,7 +4,7 @@
 
 
 Features:
-- Updated roster to 2025 season
+- Updated roster to 2026 season
 - Expanded uniform slots with updated alternate uniform sets
 - Modified field system
 - New stadiums
@@ -12,7 +12,6 @@ Features:
 
 
 Work In Progress:
-- Stadium wallart
 - Schedules
 - Loading screen and menu graphics
 
