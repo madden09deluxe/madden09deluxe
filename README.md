@@ -1,10 +1,10 @@
 
-<img width="2048" height="1024" alt="Main Menu for Mod" src="https://github.com/user-attachments/assets/7830508c-eb03-42ab-b62d-ab6479495341" />
+<img width="2048" height="1024" alt="M09 Menu" src="https://github.com/user-attachments/assets/1b85134a-242d-4ed8-8948-2c15bc9c39cd" />
 
 
 
 Features:
-- Updated roster to 2025 season
+- Updated roster to 2026 season
 - Expanded uniform slots with updated alternate uniform sets
 - Modified field system
 - New stadiums
@@ -12,11 +12,12 @@ Features:
 
 
 Work In Progress:
-- Stadium wallart
 - Schedules
 - Loading screen and menu graphics
 
 Installation Guide can be found on the [wiki](https://github.com/maddendeluxe/madden09deluxe/wiki)!
+
+[Join the Discord Community for Discussion and Support for the mod!](https://discord.gg/5pfY2f4CW4)
 
 Downloads
 
@@ -30,16 +31,19 @@ Downloads
 
 | Roster Files | Link |
 | ------------- | ------------- |
-| Latest Rosters .max File | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.1-beta/SLUS-21770.Madden.NFL.Rost.2526NFL.C6234E8B.max) |
-| Latest Rosters Memcard | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.1-beta/Madden09Deluxe.ps2) |
+| Latest Rosters .max File | [Link](https://www.mediafire.com/file/sw2y9fllj2o0z46/SLUS-21770_Madden_NFL_Rost_Rost1-p26_%252899F470A8%2529.max/file) |
+| Latest Rosters Memcard | [Link](https://www.mediafire.com/file/oe122s7eq3jplbv/M09DeluxePreDraft26.ps2/file) |
 | Draft Classes | [Link](https://www.mediafire.com/file/ij7frr01x9q4r1q/M09_Deluxe_Draft_Classes.zip/file)|
 
 | Widescreen Fix | Link |
 | ------------- | ------------- |
-| Pnach | |
+| Pnach |[Link](https://www.mediafire.com/file/mxyviksvv4nmb9z/Madden_09_Widescreen_PNACH.zip/file)|
 
 
 JSGME Mods
+
+NOTE: Brand new installations of this mod will have all the existing JSGME mods included. If you already have ran the installation tool once, download any JSGME you want from here.
+
 | Files  | Link |
 | ------------- | ------------- |
 | Super Bowl LX Package | [Link](https://www.mediafire.com/file/4j9na2dv0dwjj37/Super_Bowl_LX_-_SEA_vs_NE_-_M09.zip/file)  |
