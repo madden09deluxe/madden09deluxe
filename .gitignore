@@ -8,3 +8,7 @@ SLUS-21770/dumps
 /textures/SLUS-21770/replacements/- 1 2 user-customs
 update/DATA/STADIUMS.DAT
 textures/SLUS-21770/JSGME.ini
+textures/SLUS-21770/.stignore
+textures/SLUS-21770/.stfolder/syncthing-folder-f570d2.txt
+textures/SLUS-21770/.stfolder/desktop.ini
+*.ini
