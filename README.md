@@ -60,15 +60,23 @@ A: This mod will specifically work on 1.7.2049 or lower builds of PCSX2 (the one
 
 Credits:
 
-joshuablackstone - Rosters, Original Madden 12 Mod
+MisterAlex - Team Member & Uniforms, Graphics
+
+joshuablackstone - Team Member & Rosters, Original Madden 12 Mod
 
 WillyBilly - Player Rating Input for Rosters + ISO patching tool
 
-CryptoIntern - Franchise, Superstar, Gear
+CryptoIntern - Team Member & Team Member & Franchise, Superstar, Gear
 
-johndest - Uniforms and Gear
+johndest - Team Member & Uniforms and Gear
 
 Seanie Mac - Loading Screens
+
+Mike Oneil - Team Member
+
+Pinky - Team Member
+
+j4ck01 - Team Member & Creator of uniforms Ported from Madden 08 FF Mod
 
 antdroid - Creator of tools used to create this mod (NCAA XDBE)
 
@@ -86,7 +94,6 @@ zonepull5 - Creator of NEXT Field Template
 
 KeepinItTeal - Creator of a a few stadium assets ported from Madden 08 FF Mod and Uniform Templates
 
-j4ck01 - Creator of uniforms Ported from Madden 08 FF Mod
 
 1312qohelet - Creator of uniforms ported from Madden 08 FF Mod
 
