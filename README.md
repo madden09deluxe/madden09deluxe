@@ -23,7 +23,7 @@ Downloads
 
 | Files  | Link |
 | ------------- | ------------- |
-| Latest Release | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/tag/v0.2-beta)  |
+| Latest Release | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/tag/v0.3-beta)  |
 | Delta Patcher  | [Link](https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.6)  |
 | mymc | [Link](http://www.csclub.uwaterloo.ca:11068/mymc/) |
 | Texture Download Tool | [Link](https://github.com/maddendeluxe/madden09-textures-downloader-v2/releases/tag/release) |
@@ -31,8 +31,8 @@ Downloads
 
 | Roster Files | Link |
 | ------------- | ------------- |
-| Latest Rosters .max File | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.2-beta/SLUS-21770.Madden.NFL.Rost.Rost1.D887FA61.psu) |
-| Latest Rosters Memcard | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.2-beta/M09Deluxe.ps2) |
+| Latest Rosters .psu File | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.3-beta/SLUS-21770.Madden.NFL.Rost.June.63594AC6.psu) |
+| Latest Rosters Memcard | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.3-beta/M09Deluxe.ps2) |
 | Draft Classes | [Link](https://www.mediafire.com/file/ij7frr01x9q4r1q/M09_Deluxe_Draft_Classes.zip/file)|
 
 | Widescreen Fix | Link |
@@ -60,15 +60,23 @@ A: This mod will specifically work on 1.7.2049 or lower builds of PCSX2 (the one
 
 Credits:
 
-joshuablackstone - Rosters, Original Madden 12 Mod
+MisterAlex - Team Member & Uniforms, Graphics
+
+joshuablackstone - Team Member & Rosters, Original Madden 12 Mod
 
 WillyBilly - Player Rating Input for Rosters + ISO patching tool
 
-CryptoIntern - Franchise, Superstar, Gear
+CryptoIntern - Team Member & Team Member & Franchise, Superstar, Gear
 
-johndest - Uniforms and Gear
+johndest - Team Member & Uniforms and Gear
 
 Seanie Mac - Loading Screens
+
+Mike Oneil - Team Member
+
+Pinky - Team Member
+
+j4ck01 - Team Member & Creator of uniforms Ported from Madden 08 FF Mod
 
 antdroid - Creator of tools used to create this mod (NCAA XDBE)
 
@@ -86,7 +94,6 @@ zonepull5 - Creator of NEXT Field Template
 
 KeepinItTeal - Creator of a a few stadium assets ported from Madden 08 FF Mod and Uniform Templates
 
-j4ck01 - Creator of uniforms Ported from Madden 08 FF Mod
 
 1312qohelet - Creator of uniforms ported from Madden 08 FF Mod
 
