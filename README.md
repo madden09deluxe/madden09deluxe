@@ -32,7 +32,7 @@ Downloads
 | Roster Files | Link |
 | ------------- | ------------- |
 | Latest Rosters .psu File | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/SLUS-21770.Madden.NFL.Rost.June.63594AC6.psu) |
-| Latest Rosters Memcard | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/M09Deluxe.ps2) |
+| Latest Rosters Memcard | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/M09DeluxeJune26.ps2) |
 | Draft Classes | [Link](https://www.mediafire.com/file/ij7frr01x9q4r1q/M09_Deluxe_Draft_Classes.zip/file)|
 
 | Widescreen Fix | Link |
