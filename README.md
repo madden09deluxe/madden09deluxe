@@ -82,7 +82,7 @@ antdroid - Creator of tools used to create this mod (NCAA XDBE)
 
 JDHalfrack - Creator of tools used to create this mod (DFR5, Madden Uniform Editor and Ripper), Assistance on HEX Editing
 
-JD637 - Creator of tools used to create this mod (Texture Downloader)
+JD637 - Creator of tools used to create this mod and various textures from NCAA Next (Texture Downloader)
 
 SNOHBAWL - Creator of NEXT Field Template
 
