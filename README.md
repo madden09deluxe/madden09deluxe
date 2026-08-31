@@ -25,7 +25,7 @@ Downloads
 
 | Files  | Link |
 | ------------- | ------------- |
-| Latest Release | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/tag/v0.4-beta)  |
+| Latest Release | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/tag/v0.5-beta)  |
 | Delta Patcher  | [Link](https://github.com/marco-calautti/DeltaPatcher/releases/tag/v3.1.6)  |
 | mymc | [Link](http://www.csclub.uwaterloo.ca:11068/mymc/) |
 | Texture Download Tool | [Link](https://github.com/maddendeluxe/maddendeluxe-textures-downloader-v2/releases/tag/v2.0.1) |
@@ -33,8 +33,8 @@ Downloads
 
 | Roster Files | Link |
 | ------------- | ------------- |
-| Latest Rosters .psu File | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/SLUS-21770.Madden.NFL.Rost.June.63594AC6.psu) |
-| Latest Rosters Memcard | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.4-beta/M09DeluxeJune26.ps2) |
+| Latest Rosters .psu File | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.5-beta/SLUS-21770.Madden.NFL.Rost.AUG26.761B30D7.max) |
+| Latest Rosters Memcard | [Link](https://github.com/maddendeluxe/madden09deluxe/releases/download/v0.5-beta/M09Deluxe-August.ps2) |
 | Draft Classes | [Link](https://www.mediafire.com/file/ij7frr01x9q4r1q/M09_Deluxe_Draft_Classes.zip/file)|
 
 | Widescreen Fix | Link |
