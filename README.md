@@ -9,6 +9,8 @@ Features:
 - Modified field system
 - New stadiums
 - Upscaled textures
+- Player Portraits
+- 2026 Schedule
 
 
 Work In Progress:
