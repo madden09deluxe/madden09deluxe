@@ -72,8 +72,6 @@ johndest - Team Member & Uniforms and Gear
 
 Seanie Mac - Loading Screens
 
-Mike Oneil - Team Member
-
 Pinky - Team Member
 
 j4ck01 - Team Member & Creator of uniforms Ported from Madden 08 FF Mod
