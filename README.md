@@ -9,11 +9,13 @@ Features:
 - Modified field system
 - New stadiums
 - Upscaled textures
+- Player Portraits
+- 2026 Schedule
 
 
 Work In Progress:
-- Schedules
-- Loading screen and menu graphics
+- Loading screens
+- Week 1 Rosters
 
 Installation Guide can be found on the [wiki](https://github.com/maddendeluxe/madden09deluxe/wiki)!
 
@@ -72,9 +74,11 @@ johndest - Team Member & Uniforms and Gear
 
 Seanie Mac - Loading Screens
 
-Mike Oneil - Team Member
-
 Pinky - Team Member
+
+Sabi - Team Member
+
+newerest - Team Member
 
 j4ck01 - Team Member & Creator of uniforms Ported from Madden 08 FF Mod
 
