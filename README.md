@@ -74,6 +74,10 @@ Seanie Mac - Loading Screens
 
 Pinky - Team Member
 
+Sabi - Team Member
+
+newerest - Team Member
+
 j4ck01 - Team Member & Creator of uniforms Ported from Madden 08 FF Mod
 
 antdroid - Creator of tools used to create this mod (NCAA XDBE)
